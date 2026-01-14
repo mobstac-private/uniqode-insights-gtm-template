@@ -1,5 +1,5 @@
 homepage: "https://www.uniqode.com"
 documentation: "https://github.com/mobstac-private/uniqode-insights-gtm-template/blob/main/README.md"
 versions:
-  - sha: ""
+  - sha: "99600c83e70c5600d12a9f9f1212ecb310fa9bf7"
     changeNotes: "Initial release of Uniqode Insights tracking tag."
